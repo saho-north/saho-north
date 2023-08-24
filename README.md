@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/saho)
+![LeetCode Stats](https://leetcard.jacoblin.cool/saho?theme=unicorn&font=ABeeZee&ext=activity)
